@@ -143,15 +143,15 @@ My choice for the final model would be the Regression Tree Model, for it's sligh
  - Regression Tree model applied and performed marginally better
 	Hyerparameters: A Max Depth of 5 was selected.
 	
-	-Training Model R2 0.62
-	-Testing Model R2 0.58
+	-Training Model R2 0.6
+	-Testing Model R2 0.59
 
-	-Model Training MSE: 1138739.418683952
-	-Model Testing MSE: 1146473.1774573105
+	-Model Training MSE: 1172166.0942888882
+	-Model Testing MSE: 1118159.9220473527
 
-	-Model Training MRSE: 1067.1173406350174
-	-Model Testing MRSE: 1070.7348772956407
-
+	-Model Training MRSE: 1082.666197075021
+	-Model Testing MRSE: 1057.4308119434352
+	
 -with an rmse of around 1000$ could relatively predict the sales of items sold at various types and sizes of stores.
 
 
