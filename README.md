@@ -120,7 +120,7 @@ Outlet Type
 	-Model Training MRSE: 1067.1173406350174
 	-Model Testing MRSE: 1070.7348772956407
 
-### Here are examples of how to embed images from your sub-folder
+### Visualizations
 
 
 #### Sales of Each Item Type
